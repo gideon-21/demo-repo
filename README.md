@@ -1,2 +1,2 @@
 # Hello
-some note!
+ note!
